@@ -1,4 +1,4 @@
-(THIS PROJECT IS DEPRECATED, SEE [SOMEWHERE 2](https://github.com/Charles-Zhang-Somewhere/Somewhere2))
+***(THIS PROJECT IS DEPRECATED, ALL DEVELOPMENT IN THIS GITHUB ORGANIZATION HAS CEASED; FUTURE UPDATES WILL BE PUBLISHED OFFICIALLY ON http://methodox.io/ or on my personal website: https://www.totalimagine.com/)***
 
 (This documentation is still work-in-progress)
 
